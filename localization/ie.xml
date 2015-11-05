@@ -192,4 +192,32 @@
     <unit type="base_distance" value="m"/>
     <unit type="long_distance" value="km"/>
   </units>
+  <states>
+		<state name="Carlow" iso_code="CW" country="IE" zone="Ireland" />
+		<state name="Cavan" iso_code="CN" country="IE" zone="Ireland" />
+		<state name="Clare" iso_code="CE" country="IE" zone="Ireland" />
+		<state name="Cork" iso_code="CO" country="IE" zone="Ireland" />
+		<state name="Donegal" iso_code="DL" country="IE" zone="Ireland" />
+		<state name="Dublin" iso_code="D" country="IE" zone="Ireland" />
+		<state name="Galway" iso_code="G" country="IE" zone="Ireland" />
+		<state name="Kerry" iso_code="KY" country="IE" zone="Ireland" />
+		<state name="Kildare" iso_code="KE" country="IE" zone="Ireland" />
+		<state name="Kilkenny" iso_code="KK" country="IE" zone="Ireland" />
+		<state name="Laois" iso_code="LS" country="IE" zone="Ireland" />
+		<state name="Leitrim" iso_code="LM" country="IE" zone="Ireland" />
+		<state name="Limerick" iso_code="LK" country="IE" zone="Ireland" />
+		<state name="Longford" iso_code="LD" country="IE" zone="Ireland" />
+		<state name="Louth" iso_code="LH" country="IE" zone="Ireland" />
+		<state name="Mayo" iso_code="MO" country="IE" zone="Ireland" />
+		<state name="Meath" iso_code="MH" country="IE" zone="Ireland" />
+		<state name="Monaghan" iso_code="MN" country="IE" zone="Ireland" />
+		<state name="Offaly" iso_code="OY" country="IE" zone="Ireland" />
+		<state name="Roscommon" iso_code="RN" country="IE" zone="Ireland" />
+		<state name="Sligo" iso_code="SO" country="IE" zone="Ireland" />
+		<state name="Tipperary" iso_code="TY" country="IE" zone="Ireland" />
+		<state name="Waterford" iso_code="WD" country="IE" zone="Ireland" />
+		<state name="Westmeath" iso_code="WH" country="IE" zone="Ireland" />
+		<state name="Wexford" iso_code="WX" country="IE" zone="Ireland" />
+		<state name="Wicklow" iso_code="WW" country="IE" zone="Ireland" />
+	</states>
 </localizationPack>
