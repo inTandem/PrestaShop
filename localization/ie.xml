@@ -187,7 +187,7 @@
   </taxes>
   <units>
     <unit type="weight" value="kg"/>
-    <unit type="volume" value="L"/>
+    <unit type="volume" value="l"/>
     <unit type="short_distance" value="cm"/>
     <unit type="base_distance" value="m"/>
     <unit type="long_distance" value="km"/>
